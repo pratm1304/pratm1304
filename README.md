@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham</h1>
 <h3 align="center">Discovering new horizons in web development!</h3>
-<img src="myImage.jpeg" alt="MyImage" width="300" height="auto" style="display: block; margin: 0 auto; border-radius:20px;">
+<img src="myImage.jpeg" alt="MyImage" width="300" height="auto" style="display: block; margin: 0 auto; border-radius:20;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratm1304&label=Profile%20views&color=58bb69&style=flat" alt="pratm1304" /> </p>
 
